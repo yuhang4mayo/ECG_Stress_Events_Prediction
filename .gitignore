@@ -1,0 +1,7 @@
+# Virtual environment created by setup.ps1 / setup.sh
+.venv/
+
+# Jupyter / Python caches
+.ipynb_checkpoints/
+__pycache__/
+.mypy_cache/
